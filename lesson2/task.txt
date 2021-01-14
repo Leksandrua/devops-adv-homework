@@ -1,0 +1,3 @@
+1. Install Docker and docker-compose on your virtual machine (or PC, or laptop)
+2. Run docker website in docker using docker-compose
+3. Upload your docker-compose code to Github and send link to your teacher.
